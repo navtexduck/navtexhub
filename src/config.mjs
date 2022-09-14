@@ -1,11 +1,11 @@
 export const SITE = {
-	name: 'Navtexhub',
+	name: 'NavtexHub',
 
 	origin: 'https://astrowind.vercel.app',
 	basePathname: '/',
 
-	title: 'Navtexhub',
-	description: '🚀 Navtexhub is so cool.',
+	title: 'NavtexHub',
+	description: '🚀 NavtexHub is so cool.',
 
 	googleAnalyticsId: false, // or "G-XXXXXXXXXX",
 	googleSiteVerificationId: 'orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M',
